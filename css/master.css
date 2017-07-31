@@ -1,0 +1,25 @@
+body {
+  background-color: orange;
+}
+
+a {
+  color: white;
+  font-size: 1.5em;
+}
+
+a:hover{
+  color: grey;
+}
+
+.work_details {
+  padding-bottom: 3em;
+}
+
+.work_main {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+.logo {
+  padding-top: 1em;
+}
