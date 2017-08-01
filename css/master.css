@@ -17,6 +17,11 @@ a:hover{
 p {
   font-size: 1.2em;
 }
+
+.logo {
+  padding-top: 1em;
+}
+
 .work_main {
   padding-top: 2em;
   padding-bottom: 2em;
@@ -26,6 +31,8 @@ p {
   padding-bottom: 5em;
 }
 
-.logo {
-  padding-top: 1em;
+.validation {
+  border:0;
+  width:88px;
+  height:31px;
 }
