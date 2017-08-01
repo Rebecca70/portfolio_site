@@ -6,6 +6,7 @@ body {
 
 a {
   color: inherit;
+  text-decoration: underline;
   font-size: 1.5em;
 }
 
@@ -13,13 +14,16 @@ a:hover{
   color: orange;
 }
 
-.work_details {
-  padding-bottom: 3em;
+p {
+  font-size: 1.2em;
 }
-
 .work_main {
   padding-top: 2em;
   padding-bottom: 2em;
+}
+
+.work_details {
+  padding-bottom: 5em;
 }
 
 .logo {
