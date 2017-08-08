@@ -1,0 +1,38 @@
+body {
+  font-family: 'Khula', sans-serif;
+  background-color: black;
+  color: #848484;
+}
+
+a {
+  color: inherit;
+  text-decoration: underline;
+  font-size: 1.5em;
+}
+
+a:hover{
+  color: orange;
+}
+
+p {
+  font-size: 1.2em;
+}
+
+.logo {
+  padding-top: 1em;
+}
+
+.work_main {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+.work_details {
+  padding-bottom: 5em;
+}
+
+.validation {
+  border:0;
+  width:88px;
+  height:31px;
+}
